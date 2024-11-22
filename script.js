@@ -1,5 +1,5 @@
 // Data de início do namoro (15/05/2024)
-const dataInicio = new Date('2024-05-15');
+const dataInicio = new Date('2024-07-04');
 
 function atualizarCronometro() {
   const agora = new Date();
